@@ -21,3 +21,11 @@ Welcome to the hands-on materials for Unit 2. This unit covers the foundations o
 - Tree of Thoughts (ToT): Exploratory reasoning (Branching & Judging).
 - Graph of Thoughts (GoT): Networked reasoning (Aggregation & Refinement).
 - Note: This notebook uses the Groq API (Llama 3) for speed and logic demonstrations.
+
+4. RAG & Vector Stores
+- Embeddings: Understanding vector space (with Hugging Face models).
+- Vector Stores: Using FAISS for semantic search.
+- RAG Pipeline: Building a "Chat with your Data" system.
+- Indexing Algorithms: Deep dive into how vector databases scale (HNSW, PQ, IVF).
+
+#### Assignment: Mixture of Experts (MoE): Build a Smart Routing system using Groq that directs queries to specialized Expert prompts.
